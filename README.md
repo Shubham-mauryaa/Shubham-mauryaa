@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shubham58268@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1zVNDlec_P5js55HDejOMs4tqqds1Zk4I/view?usp=sharing](https://drive.google.com/file/d/1zVNDlec_P5js55HDejOMs4tqqds1Zk4I/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1cOcJzCJtnRu1tR6rZQlGuK5JplV0ljWa/view?usp=sharing](https://drive.google.com/file/d/1cOcJzCJtnRu1tR6rZQlGuK5JplV0ljWa/view?usp=sharing)
 
 - ⚡ Hobbies **I like watching anime, read novels, play basketball, listen songs**
 
