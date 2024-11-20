@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-mauryaa&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-mauryaa" /> </p>
 
-- 🔭 I’m currently working on **Real time web chat application**
-
-- 🌱 I’m currently learning **React Js**
-
 - 💬 Ask me about **DSA**
 
 - 📫 How to reach me **shubham58268@gmail.com**
